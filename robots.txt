@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leejjr-prog.github.io/Showtime/sitemap.xml
